@@ -69,3 +69,47 @@ The dataset represents a real-world HR database containing:
 ---
 
 ## 📁 Project Structure
+Employee-Performance-Attrition-Analysis/
+│
+├── dataset/
+│ └── hr_employee_data.sql
+│
+├── queries/
+│ └── hr_analysis_queries.sql
+│
+├── insights/
+│ └── hr_insights.md
+│
+└── README.me
+
+--
+
+
+---
+
+## 🚀 How to Use
+1. Import the SQL dataset into MySQL or PostgreSQL
+2. Run the analysis queries from the queries folder
+3. Review insights from the insights directory
+4. Modify queries to explore additional HR scenarios
+
+---
+
+## 💼 Resume Highlights
+- Real-world HR Analytics case study
+- Strong SQL querying and data analysis
+- Business-focused insights and recommendations
+- Interview-ready project with clear problem statements
+
+---
+
+## 🔮 Future Enhancements
+- Add Power BI / Tableau dashboards
+- Perform predictive attrition modeling
+- Include Python-based exploratory analysis
+
+---
+
+## ⭐ Conclusion
+This project demonstrates how SQL can be effectively used to analyze HR data, uncover attrition drivers, and support strategic HR decision-making.
+
